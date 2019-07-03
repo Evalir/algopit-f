@@ -28,7 +28,8 @@
     "nprogress": "^0.2.0",
     "react": "^16.8.6",
     "react-apollo": "^2.5.8",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "styled-jsx": "^3.2.1"
   },
   "devDependencies": {
     "eslint-config-prettier": "^6.0.0",
