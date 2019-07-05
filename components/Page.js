@@ -4,7 +4,7 @@ import Meta from "./Meta";
 const Page = props => (
   <div>
     <Meta />
-    <Header />
+    {/* <Header /> */}
     {props.children}
   </div>
 );
